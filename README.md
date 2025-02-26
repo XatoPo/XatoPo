@@ -54,25 +54,7 @@ Soy un **Desarrollador Web Full Stack** apasionado por la tecnología y el desar
 
 ## 📫 ¡Conéctate conmigo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flavio%20Villanueva-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/flaviovm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flavio%20Villanueva-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/flavio-sebastian-villanueva-medina-072343210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Email](https://img.shields.io/badge/Email-flaviovm2013%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:flaviovm2013@gmail.com)
 
 ¡Gracias por visitar mi perfil! 😃🚀
-
-
----
-
-📌 Instrucciones para implementarlo en tu GitHub:
-
-1. Crea un repositorio en GitHub con tu nombre de usuario exacto (ejemplo: flaviovm).
-
-
-2. Sube este README.md al repositorio.
-
-
-3. Personaliza los enlaces de LinkedIn, email y tu usuario en las URLs de GitHub Stats.
-
-
-
-Con esto, tendrás un perfil atractivo, dinámico y profesional. Si quieres añadir algo más o modificarlo, dime y lo ajustamos. 🚀
-
