@@ -36,14 +36,17 @@ Soy un **Desarrollador Web Full Stack** con una sólida trayectoria en la creaci
 
 ## 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=XatoPo&show_icons=true&theme=radical)
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=XatoPo&layout=compact&theme=radical)
-
+<p align="center">
+  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=XatoPo&show_icons=true&theme=chalk)
+  ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=XatoPo&layout=compact&theme=chalk)
+</p>
 ---
 
 ## 🎖️ Logros y Certificaciones
 
-![Trofeos](https://github-profile-trophy.vercel.app/?username=XatoPo&theme=dracula&column=3&titles=Commits,Repositories,Stars)
+<p align="center">
+  ![Trofeos](https://github-profile-trophy.vercel.app/?username=XatoPo&theme=chalk&column=3&titles=Commits,Repositories,Stars)
+</p>
 
 - 🏅 **Especialista en Programación con Python** – Universidad Continental.
 - 🏅 **Desarrollador de Videojuegos con C++ y Godot**.
