@@ -1,55 +1,55 @@
 # 👋 ¡Hola, soy Flavio Villanueva!
 
-Soy un **Desarrollador Web Full Stack** apasionado por la tecnología y el desarrollo de soluciones innovadoras. Tengo experiencia en **Laravel, Node.js, React y Python**, así como en la gestión de **VPS, hosting (GoDaddy, cPanel, WHM)** y el despliegue de aplicaciones en la nube. 
+Soy un **Desarrollador Web Full Stack** con una sólida trayectoria en la creación de soluciones tecnológicas innovadoras. Mi experiencia abarca desde el desarrollo de aplicaciones web hasta la gestión de infraestructuras en la nube, siempre enfocado en ofrecer productos de alta calidad y rendimiento.
 
 ---
 
 ## 🚀 Tecnologías y Herramientas
 
-[![Mis habilidades](https://skillicons.dev/icons?i=laravel,php,html,css,js,react,tailwind,python,mysql,mongodb,nodejs,git,github,docker,cloudflare)](https://skillicons.dev)
+[![Mis habilidades](https://skillicons.dev/icons?i=laravel,php,html,css,js,react,nextjs,vue,nodejs,python,django,java,kotlin,androidstudio,bootstrap,tailwind,mysql,postgresql,sqlite,mongodb,sqlserver,azure,gcp,cloudflare,linux,docker,jenkins,git,github,gitlab,postman,vite,npm,astro,godot)](https://skillicons.dev)
 
 ---
 
 ## 🏆 Experiencia Profesional
 
-### 🔹 **Silver System** (Presente)
-- Desarrollo de aplicaciones web con **Laravel** (backend y frontend).
-- Creación y consumo de **APIs REST**, incluyendo integración con **Zoom**.
-- Gestión de **VPS y hosting (GoDaddy, cPanel, WHM)**.
-- Proyectos:
-  - **Plataformas de aprendizaje** para 24 institutos en Ica, Perú.
-  - **Repositorio y biblioteca virtual** con lector de PDF.
-  - **Plataforma de alquiler de canchas deportivas** en Perú.
+### 🔹 **Silver System** (Fecha de inicio – Presente)
+- **Desarrollo Full Stack**: Implementación de aplicaciones web utilizando **Laravel** para backend y frontend.
+- **Integración de APIs**: Creación y consumo de **APIs REST**, incluyendo la integración con la API de **Zoom**.
+- **Gestión de Infraestructura**: Administración de **VPS** y servicios de hosting en **GoDaddy**, configuración de **cPanel** y **WHM**, y manejo de bases de datos.
+- **Proyectos Destacados**:
+  - **Plataformas Educativas**: Desarrollo de entornos virtuales de aprendizaje para 24 institutos en Ica, Perú.
+  - **Biblioteca Virtual**: Creación de un repositorio digital con lector de PDF y gestión avanzada de librerías.
+  - **Plataforma Deportiva**: Implementación de un sistema para el alquiler de canchas deportivas en Perú.
 
 ### 🔹 **Inteligenze S.A.C.** (Julio 2024 – Octubre 2024)
-- Desarrollo de **VentaBot**, una herramienta de mensajería masiva en **WhatsApp Business**.
-- API en **Node.js con MongoDB** y autenticación segura.
-- Frontend en **React y Tailwind CSS**.
-- Despliegue en **Google Cloud Platform** (Cloud Run y App Engine).
-- Creación de un **chatbot con Vertex AI**.
+- **VentaBot**: Desarrollo de una herramienta de mensajería masiva para **WhatsApp Business**.
+  - **Backend**: Construcción de una API robusta con **Node.js** y **MongoDB**, asegurando autenticación y seguridad.
+  - **Frontend**: Diseño de interfaces de usuario dinámicas utilizando **React** y **Tailwind CSS**.
+  - **Despliegue en la Nube**: Implementación en **Google Cloud Platform** mediante **Cloud Run** y **App Engine**.
+  - **Inteligencia Artificial**: Desarrollo de un chatbot inteligente utilizando **Vertex AI**.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=flaviovm&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviovm&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=XatoPo&show_icons=true&theme=radical)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=XatoPo&layout=compact&theme=radical)
 
 ---
 
 ## 🎖️ Logros y Certificaciones
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=flaviovm&theme=dracula&column=4)
+![Trofeos](https://github-profile-trophy.vercel.app/?username=XatoPo&theme=dracula&column=3&titles=Commits,Repositories,Stars)
 
-- 🏅 **Especialista en programación y desarrollo con Python** (Universidad Continental).
-- 🏅 **Experiencia en desarrollo de videojuegos con C++ y Godot**.
-- 🏅 **Control de versiones con Git y GitHub**.
+- 🏅 **Especialista en Programación con Python** – Universidad Continental.
+- 🏅 **Desarrollador de Videojuegos con C++ y Godot**.
+- 🏅 **Experto en Control de Versiones** con Git y GitHub.
 
 ---
 
 ## 📫 ¡Conéctate conmigo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flavio%20Villanueva-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/flavio-sebastian-villanueva-medina-072343210?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flavio%20Villanueva-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/flavio-sebastian-villanueva-medina-072343210)
 [![Email](https://img.shields.io/badge/Email-flaviovm2013%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:flaviovm2013@gmail.com)
 
 ¡Gracias por visitar mi perfil! 😃🚀
