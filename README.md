@@ -34,15 +34,18 @@ Soy un **Desarrollador Web Full Stack** con una sólida trayectoria en la creaci
 
 ---
 
-## 📊 Estadísticas de GitHub
+Aquí tienes la corrección del contenido solicitado:
+
+### 📊 Estadísticas de GitHub
 
 <p align="center">
   ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=XatoPo&show_icons=true&theme=chalk)
   ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=XatoPo&layout=compact&theme=chalk)
 </p>
+
 ---
 
-## 🎖️ Logros y Certificaciones
+### 🎖️ Logros y Certificaciones
 
 <p align="center">
   ![Trofeos](https://github-profile-trophy.vercel.app/?username=XatoPo&theme=chalk&column=3&titles=Commits,Repositories,Stars)
@@ -56,7 +59,7 @@ Soy un **Desarrollador Web Full Stack** con una sólida trayectoria en la creaci
 
 ## 📫 ¡Conéctate conmigo!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flavio%20Villanueva-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/flavio-sebastian-villanueva-medina-072343210)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flavio%20Villanueva%20Medina-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/flavio-sebastian-villanueva-medina-072343210)
 [![Email](https://img.shields.io/badge/Email-flaviovm2013%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:flaviovm2013@gmail.com)
 
 ¡Gracias por visitar mi perfil! 😃🚀
