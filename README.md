@@ -38,18 +38,14 @@ Aquí tienes la corrección del contenido solicitado:
 
 ### 📊 Estadísticas de GitHub
 
-<p align="center">
-  ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=XatoPo&show_icons=true&theme=chalk)
-  ![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=XatoPo&layout=compact&theme=chalk)
-</p>
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=XatoPo&show_icons=true&theme=chalk)
+![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=XatoPo&layout=compact&theme=chalk)
 
 ---
 
 ### 🎖️ Logros y Certificaciones
 
-<p align="center">
-  ![Trofeos](https://github-profile-trophy.vercel.app/?username=XatoPo&theme=chalk&column=3&titles=Commits,Repositories,Stars)
-</p>
+![Trofeos](https://github-profile-trophy.vercel.app/?username=XatoPo&theme=chalk&column=3&titles=Commits,Repositories,Stars)
 
 - 🏅 **Especialista en Programación con Python** – Universidad Continental.
 - 🏅 **Desarrollador de Videojuegos con C++ y Godot**.
