@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Flavio Villanueva Medina!
 
-Soy un **Desarrollador Web Full Stack** con una sólida trayectoria en la creación de soluciones tecnológicas innovadoras. Mi experiencia abarca desde el desarrollo de aplicaciones web hasta la gestión de infraestructuras en la nube, siempre enfocado en ofrecer productos de alta calidad y rendimiento.
+Soy un **Desarrollador Full Stack** con una sólida trayectoria en la creación de soluciones tecnológicas innovadoras. Mi experiencia abarca desde el desarrollo de aplicaciones web o moviles hasta la gestión de infraestructuras en la nube, siempre enfocado en ofrecer productos de alta calidad y rendimiento.
 
 ---
 
@@ -8,7 +8,7 @@ Soy un **Desarrollador Web Full Stack** con una sólida trayectoria en la creaci
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,html,css,js,react,angular,vue,nodejs,python,django,java,kotlin,androidstudio,bootstrap,tailwind,maven,mysql,postgresql,sqlite,mongodb,git,github,docker,aws,gcp,azure,linux" />
+    <img src="https://skillicons.dev/icons?i=angular,vue,nodejs,python,django,java,kotlin,androidstudio,bootstrap,tailwind,maven,mysql,postgresql,sqlite,mongodb,postgres,azure,gcp,linux,ubuntu,docker,jenkins,git,github,gitlab,postman,vite,nextjs,vercel,visualstudio,vscode,npm,pnpm,astro,godot,arduino,c,cpp" />
   </a>
 </p>
 
@@ -38,14 +38,19 @@ Aquí tienes la corrección del contenido solicitado:
 
 ### 📊 Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=XatoPo&show_icons=true&theme=chalk)
-![Lenguajes más utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=XatoPo&layout=compact&theme=chalk)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=XatoPo&show_icons=true&theme=graywhite&hide=prs,issues" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XatoPo&layout=compact&theme=graywhite" />
+</p>
 
 ---
 
 ### 🎖️ Logros y Certificaciones
 
-![Trofeos](https://github-profile-trophy.vercel.app/?username=XatoPo&theme=chalk&column=3&titles=Commits,Repositories,Stars)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=XatoPo&theme=oldie&column=5&margin-w=15&margin-h=15&titles=Commits,Repositories,Stars" />
+</p>
+
 
 - 🏅 **Especialista en Programación con Python** – Universidad Continental.
 - 🏅 **Desarrollador de Videojuegos con C++ y Godot**.
