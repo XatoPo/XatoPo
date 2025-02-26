@@ -1,8 +1,3 @@
-Aquí tienes un README.md atractivo y personalizado para tu perfil de GitHub, basado en tu CV actualizado y la información adicional que me proporcionaste.
-
-
----
-
 # 👋 ¡Hola, soy Flavio Villanueva!
 
 Soy un **Desarrollador Web Full Stack** apasionado por la tecnología y el desarrollo de soluciones innovadoras. Tengo experiencia en **Laravel, Node.js, React y Python**, así como en la gestión de **VPS, hosting (GoDaddy, cPanel, WHM)** y el despliegue de aplicaciones en la nube. 
