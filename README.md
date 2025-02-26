@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy Flavio Villanueva!
+# 👋 ¡Hola, soy Flavio Villanueva Medina!
 
 Soy un **Desarrollador Web Full Stack** con una sólida trayectoria en la creación de soluciones tecnológicas innovadoras. Mi experiencia abarca desde el desarrollo de aplicaciones web hasta la gestión de infraestructuras en la nube, siempre enfocado en ofrecer productos de alta calidad y rendimiento.
 
@@ -6,7 +6,11 @@ Soy un **Desarrollador Web Full Stack** con una sólida trayectoria en la creaci
 
 ## 🚀 Tecnologías y Herramientas
 
-[![Mis habilidades](https://skillicons.dev/icons?i=laravel,php,html,css,js,react,nextjs,vue,nodejs,python,django,java,kotlin,androidstudio,bootstrap,tailwind,mysql,postgresql,sqlite,mongodb,sqlserver,azure,gcp,cloudflare,linux,docker,jenkins,git,github,gitlab,postman,vite,npm,astro,godot)](https://skillicons.dev)
+```html
+<p align="center">
+ <img "src=https://skillicons.dev/icons?i=laravel,php,html,css,js,react, angular,vue,nodejs,python,django,java,kotlin,androidstudio,bootstrap,tailwind,maven,mysql,postgresql,sqlite,mongodb,postgres,azure,gcp,linux,ubuntu,docker,jenkins,git,github,gitlab,postman,vite,nextjs,vercel,visualstudio,vscode,npm,pnpm,astro,godot,arduino,c,cpp" />
+</p>
+```
 
 ---
 
