@@ -16,7 +16,7 @@ Soy un **Desarrollador Full Stack** con una sólida trayectoria en la creación 
 
 ## 🏆 Experiencia Profesional
 
-### 🔹 **Silver System** (Fecha de inicio – Presente)
+### 🔹 **SilferSystem** (Fecha de inicio – Presente)
 - **Desarrollo Full Stack**: Implementación de aplicaciones web utilizando **Laravel** para backend y frontend.
 - **Integración de APIs**: Creación y consumo de **APIs REST**, incluyendo la integración con la API de **Zoom**.
 - **Gestión de Infraestructura**: Administración de **VPS** y servicios de hosting en **GoDaddy**, configuración de **cPanel** y **WHM**, y manejo de bases de datos.
