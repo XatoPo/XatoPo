@@ -8,7 +8,7 @@ Soy un **Desarrollador Full Stack** con una sólida trayectoria en la creación 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,vue,nodejs,python,django,java,kotlin,androidstudio,bootstrap,tailwind,maven,mysql,postgresql,sqlite,mongodb,postgres,azure,gcp,linux,ubuntu,docker,jenkins,git,github,gitlab,postman,vite,nextjs,vercel,visualstudio,vscode,npm,pnpm,astro,godot,arduino,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=react,vue,nodejs,python,django,java,kotlin,androidstudio,bootstrap,tailwind,maven,mysql,postgresql,sqlite,mongodb,postgres,azure,gcp,linux,ubuntu,docker,jenkins,git,github,gitlab,postman,vite,nextjs,vercel,visualstudio,vscode,npm,pnpm,astro,godot,arduino,c,cpp,angular" />
   </a>
 </p>
 
