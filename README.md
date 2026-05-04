@@ -63,4 +63,4 @@ Aquí tienes la corrección del contenido solicitado:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Flavio%20Villanueva%20Medina-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/flavio-sebastian-villanueva-medina-072343210)
 [![Email](https://img.shields.io/badge/Email-flaviovm2013%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:flaviovm2013@gmail.com)
 
-¡Gracias por visitar mi perfil! 😃🚀
+¡Gracias por visitar mi perfil! 😃🚀 
